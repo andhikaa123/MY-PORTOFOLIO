@@ -91,7 +91,14 @@ body {
     justify-content: center;
     align-items: center;
 }
+.home-img {
+    margin-left: 10px;
+}
 
+.home-content {
+    margin-left: 70px;
+    width: 50%;
+}
 .home-content img {
     width: 35vw;
 }
